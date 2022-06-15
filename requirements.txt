@@ -1,4 +1,5 @@
-Cython>=0.22
+cython>=0.22
+python=3.7
 cmdstanpy>=1.0.1
 numpy>=1.15.4
 pandas>=1.0.4
