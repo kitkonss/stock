@@ -2,12 +2,13 @@ Cython>=0.22
 cmdstanpy>=1.0.1
 numpy>=1.15.4
 pandas>=1.0.4
+pystan==2.19.1.1
+ephem
 matplotlib>=2.0.0
 LunarCalendar>=0.0.9
 convertdate>=2.1.2
 holidays>=0.13
 yfinance>=0.1.54
-pystan==2.19.1.1
 fbprophet
 setuptools>=42
 setuptools-git>=1.2
