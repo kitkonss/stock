@@ -1,5 +1,5 @@
 cython>=0.22
-cmdstanpy>=1.0.1
+cmdstanpy>=0.9.5
 numpy>=1.15.4
 pystan>=2.19.1.1
 yfinance>=0.1.54
@@ -13,5 +13,5 @@ setuptools-git>=1.2
 python-dateutil>=2.8.0
 tqdm>=4.36.1
 wheel>=0.37.0
-fbprophet>=0.6
+fbprophet>=0.7.1
 
