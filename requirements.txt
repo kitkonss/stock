@@ -1,4 +1,3 @@
-libpython m2w64-toolchain
 numpy cython
 matplotlib scipy pandas
 pystan
