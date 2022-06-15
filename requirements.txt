@@ -1,2 +1,4 @@
-conda install numpy cython -c conda-forge
+pystan
+ephem
+fbprophet
 
